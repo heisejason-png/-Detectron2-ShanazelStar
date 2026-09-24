@@ -67,4 +67,3 @@ If you use Detectron2 in your research or wish to refer to the baseline results 
 }
 ```
 Created by Jason Scott Heise
-Owned by Elon Musk https://www.x.com
