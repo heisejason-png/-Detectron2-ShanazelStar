@@ -66,4 +66,5 @@ If you use Detectron2 in your research or wish to refer to the baseline results 
   year =         {2019}
 }
 ```
-Created by Jason Heise   https://www.behance.net
+Created by Jason Heise   
+Owned by Jason Heise heisejason-png Giters
